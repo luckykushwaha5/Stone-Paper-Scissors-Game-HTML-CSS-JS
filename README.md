@@ -1,5 +1,7 @@
 # Stone-Paper-Scissors-Game-HTML-CSS-JS
 
+Note - First you have to extract the images folder from rar file then you can open it in your browser.
+
 HTML Structure:
 Create a basic HTML structure with buttons for the player's choices and a space to display the result.
 
